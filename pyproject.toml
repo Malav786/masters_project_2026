@@ -1,0 +1,20 @@
+[project]
+name = "masters-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ase>=3.27.0",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+    "tqdm>=4.67.3",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
