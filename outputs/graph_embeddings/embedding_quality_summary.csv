@@ -1,0 +1,2 @@
+num_structures,embedding_dim,mean_energy,mean_delta_energy,std_delta_energy,pca_var_ratio_1,pca_var_ratio_2,umap_available
+2916,128,-936.3141890370142,0.32561102546367443,0.23597161622787363,0.11995554265188513,0.10885291662853817,False
