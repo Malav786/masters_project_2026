@@ -1,0 +1,14 @@
+{
+  "num_structures": 2916,
+  "embedding_dim": 128,
+  "top_k_neighbors_saved": 10,
+  "num_clusters": 4,
+  "files_created": {
+    "neighbor_index_cosine": "D:\\masters_project\\outputs\\similarity_search\\neighbor_index_cosine.csv",
+    "neighbor_index_euclidean": "D:\\masters_project\\outputs\\similarity_search\\neighbor_index_euclidean.csv",
+    "query_case_studies": "D:\\masters_project\\outputs\\similarity_search\\query_case_studies.csv",
+    "motif_memberships": "D:\\masters_project\\outputs\\similarity_search\\motif_memberships.csv",
+    "motif_representatives": "D:\\masters_project\\outputs\\similarity_search\\motif_representatives.csv",
+    "motif_low_energy_rankings": "D:\\masters_project\\outputs\\similarity_search\\motif_low_energy_rankings.csv"
+  }
+}

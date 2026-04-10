@@ -1,0 +1,7 @@
+{
+  "num_sampled_queries": 39,
+  "mean_same_cluster_fraction_top10": 0.7461538461538462,
+  "median_same_cluster_fraction_top10": 0.8,
+  "mean_abs_delta_energy_difference_top10": 0.08759171872471389,
+  "median_abs_delta_energy_difference_top10": 0.08020400106906889
+}

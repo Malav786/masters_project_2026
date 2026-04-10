@@ -1,0 +1,8 @@
+claim_id,scientific_conclusion
+1,"The self-supervised embedding space organizes polymer stacking structures into motif clusters that show distinct relative-energy behavior, indicating that energy-related structure patterns emerged even though energy was not used as the main representation-learning target."
+2,"Using the stable reference energy (-936.6398) as a physical anchor, the dataset can be interpreted in terms of delta-energy stability, enabling direct comparison between latent motif families."
+3,"Cluster 2 appears to be the most favorable motif family in this analysis, with mean delta energy = 0.3278 and near-stable fraction = 0.185."
+4,"Cluster 1 appears to be the least favorable motif family in this analysis, with mean delta energy = 0.4302."
+5,"The Kruskal-Wallis test across clusters for delta energy returned p = 1.883e-03, supporting the conclusion that motif clusters are not random with respect to stability."
+6,"Several structural descriptors also vary significantly across clusters, especially: interlayer_dist_std, interlayer_dist_min, lower_rotation, com_separation, lower_intralayer_dist_mean. This supports the claim that learned motifs correspond to physically distinct geometries, not just arbitrary latent partitions."
+7,"Overall, the learned graph embeddings support motif-based scientific discovery: they separate stacking families, expose low-energy neighborhoods, and provide a practical basis for searching favorable polymer arrangements."

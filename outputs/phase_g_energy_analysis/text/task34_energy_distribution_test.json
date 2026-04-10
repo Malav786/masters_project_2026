@@ -1,0 +1,8 @@
+{
+  "test": "kruskal_wallis",
+  "num_clusters": 3,
+  "num_clustered_structures": 1430,
+  "statistic": 12.550145551943212,
+  "p_value": 0.0018826540368165404,
+  "eta_squared_approx": 0.007393234444248922
+}

@@ -1,0 +1,5 @@
+query_cluster_label,num_queries,mean_same_cluster_count,mean_same_cluster_fraction,mean_abs_delta_energy_difference,mean_abs_upper_rotation_difference,mean_abs_displacement_difference
+-1,2,10.0,1.0,0.20654451134614643,55.0,2.700000023841858
+0,1,10.0,1.0,0.06815400123596196,42.0,2.519999933242798
+1,1,10.0,1.0,0.0897130012512207,80.0,4.440000009536743
+2,3,8.333333333333334,0.8333333333333334,0.1587476639697949,2.0,3.719999957084656

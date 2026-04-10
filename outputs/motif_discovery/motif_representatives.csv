@@ -1,0 +1,4 @@
+cluster_label,centroid_nearest_structure_id,centroid_nearest_relative_cif_path,lowest_energy_structure_id,lowest_energy_relative_cif_path,most_typical_structure_id,most_typical_relative_cif_path,most_unusual_structure_id,most_unusual_relative_cif_path,cluster_size,motif_name
+0,L120_D6_U280,r120/t6.0/t6.0_280.cif,L140_D6_U80,r140/t6.0/t6.0_80.cif,L120_D0_U280,r120/t0/t0_280.cif,L120_D4.8_U80,r120/t4.8/t4.8_80.cif,41,aligned loose ordered stacking (moderate)
+1,L240_D0_U260,r240/t0/t0_260.cif,L240_D8.4_U260,r240/t8.4/t8.4_260.cif,L240_D0_U100,r240/t0/t0_100.cif,L240_D3.6_U240,r240/t3.6/t3.6_240.cif,47,shifted compact ordered stacking (unstable)
+2,L340_D1.2_U220,r340/t1.2/t1.2_220.cif,L220_D7.2_U320,r220/t7.2/t7.2_320.cif,L0_D0_U180,r0/t0/t0_180.cif,L220_D7.2_U300,r220/t7.2/t7.2_300.cif,1342,shifted loose twisted stacking (stable)

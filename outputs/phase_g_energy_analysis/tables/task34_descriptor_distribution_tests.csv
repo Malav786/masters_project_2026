@@ -1,0 +1,11 @@
+descriptor,test,statistic,p_value
+interlayer_dist_std,kruskal_wallis,128.93218943445277,1.006307696865677e-28
+interlayer_dist_min,kruskal_wallis,103.82505996581635,2.8488834795338405e-23
+lower_rotation,kruskal_wallis,25.70981637447395,2.613270156850131e-06
+com_separation,kruskal_wallis,24.46920704170866,4.859361434055014e-06
+lower_intralayer_dist_mean,kruskal_wallis,22.903003105507796,1.0633495855374393e-05
+centroid_separation,kruskal_wallis,18.796673003903102,8.286179139982126e-05
+upper_rotation,kruskal_wallis,17.88465744049159,0.00013073623729600793
+interlayer_dist_mean,kruskal_wallis,12.39978345849811,0.0020296503761702027
+upper_intralayer_dist_mean,kruskal_wallis,4.652529477677676,0.09765985170435815
+displacement,kruskal_wallis,0.4641994800984202,0.7928670387653377

@@ -1,0 +1,17 @@
+{
+  "validation_query_count": 7,
+  "cluster_labels": [
+    -1,
+    0,
+    1,
+    2
+  ],
+  "cluster_size_summary_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\cluster_size_summary.csv",
+  "motif_energy_summary_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\motif_energy_summary.csv",
+  "query_validation_cosine_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\query_validation_summary_cosine.csv",
+  "query_validation_euclidean_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\query_validation_summary_euclidean.csv",
+  "same_cluster_summary_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\same_cluster_summary_by_query_cluster.csv",
+  "top1_consistency_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\top1_neighbor_consistency.csv",
+  "global_retrieval_consistency_sample_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\global_retrieval_consistency_sample.csv",
+  "global_retrieval_consistency_summary_file": "D:\\masters_project\\outputs\\similarity_search\\validation\\global_retrieval_consistency_summary.json"
+}

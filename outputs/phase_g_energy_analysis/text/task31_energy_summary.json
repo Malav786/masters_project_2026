@@ -1,0 +1,17 @@
+{
+  "stable_energy": -936.6398,
+  "num_structures": 2916,
+  "num_missing_energy": 0,
+  "min_energy": -937.249267578125,
+  "max_energy": -935.906005859375,
+  "mean_energy": -936.3141890370142,
+  "min_delta_energy": -0.6094800233840942,
+  "max_delta_energy": 0.7337999939918518,
+  "mean_delta_energy": 0.32561102546367443,
+  "std_delta_energy": 0.23593115123293876,
+  "near_stable_max": 0.15,
+  "moderately_unstable_max": 0.5,
+  "near_stable_count": 542,
+  "moderately_unstable_count": 1655,
+  "highly_unstable_count": 719
+}
